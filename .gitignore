@@ -1,4 +1,6 @@
 *.pyc
 *.class
 *.swp
-
+*.xml
+*.index
+*.properties
