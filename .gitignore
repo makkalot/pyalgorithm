@@ -4,3 +4,12 @@
 *.xml
 *.index
 *.properties
+*.txt
+*.dat
+*.ini
+*.prefs
+*.tree
+*.version
+*.log
+*.zip
+*.lock
