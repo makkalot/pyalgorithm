@@ -13,3 +13,8 @@
 *.log
 *.zip
 *.lock
+*.so
+*.o
+build
+bin
+.metadata
